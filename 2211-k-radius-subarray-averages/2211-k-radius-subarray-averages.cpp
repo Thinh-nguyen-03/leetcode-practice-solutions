@@ -4,6 +4,7 @@ public:
         int size = nums.size(), win_size = k * 2 + 1;
         vector<int> ans(size, -1); 
         long long sum[size + 1]; 
+        sum[0] = nums[0];
         if (size < win_size) {
             return ans;
         }
