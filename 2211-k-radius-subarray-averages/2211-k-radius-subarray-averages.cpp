@@ -3,7 +3,7 @@ public:
     vector<int> getAverages(vector<int>& nums, int k) {
         int size = nums.size(), win_size = k * 2 + 1;
         vector<int> ans(size, -1); 
-        vector<long long> sum(size + 1); 
+        long long sum[size + 1]; 
         if (size < win_size) {
             return ans;
         }
