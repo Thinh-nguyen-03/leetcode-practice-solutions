@@ -1,13 +1,11 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        unordered_set<int> numSet(nums.begin(), nums.end());
-        int expectedNumCount = nums.size() + 1;
-        for (int number = 0; number < expectedNumCount; number++) {
-            if (numSet.find(number) == numSet.end()) {
-                return number;
-            }
-        }
-        return -1;
+        int sum = 0,n = nums.size();
+        for(int i = 0; i < n; i++)
+            sum += nums[i];
+        // Gauss' formula
+        // The missing number is the difference
+        return ((n * (n + 1)) / 2) - sum;
     }
 };
