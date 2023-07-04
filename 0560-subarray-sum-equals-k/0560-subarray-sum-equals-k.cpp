@@ -11,6 +11,6 @@ public:
                 count += counts[sum - k]; 
             counts[sum]++; 
         }
-        return count;  // Return the total count of subarrays whose sum equals k.
+        return count;  
     }
 };
