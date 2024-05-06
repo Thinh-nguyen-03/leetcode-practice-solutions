@@ -15,7 +15,5 @@ class Solution(object):
                     stack.pop()
             else:
                 stack.append(directory)
-
-            print(stack)
         
         return '/' + '/'.join(stack)
