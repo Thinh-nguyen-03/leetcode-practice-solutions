@@ -35,15 +35,7 @@ class MyLinkedList(object):
         :type val: int
         :rtype: None
         """
-        new_node = ListNode(val)
-        if not self.head:
-            self.head = new_node
-        else:
-            cur = self.head
-            while cur.next:
-                cur = cur.next
-            cur.next = new_node
-        self.size += 1
+        self.addAtIndex(self.size, val)
 
     def addAtIndex(self, index, val):
         """
