@@ -10,6 +10,7 @@ Collection of my LeetCode solutions, showcasing the process of problem-solving a
 # Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Thinh-nguyen-03/leetcode-practice-solutions/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Thinh-nguyen-03/leetcode-practice-solutions/tree/master/0682-baseball-game) |
 | [1720-crawler-log-folder](https://github.com/Thinh-nguyen-03/leetcode-practice-solutions/tree/master/1720-crawler-log-folder) |
 # Simulation
@@ -20,3 +21,7 @@ Collection of my LeetCode solutions, showcasing the process of problem-solving a
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/Thinh-nguyen-03/leetcode-practice-solutions/tree/master/1720-crawler-log-folder) |
+# Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Thinh-nguyen-03/leetcode-practice-solutions/tree/master/0155-min-stack) |
