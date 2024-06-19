@@ -4,40 +4,34 @@ class BrowserHistory(object):
         """
         :type homepage: str
         """
-        self.current = homepage
-        self.back_stack = []
-        self.forward_stack = []
+        self.history = [homepage]
+        self.current = 0
 
     def visit(self, url):
         """
         :type url: str
         :rtype: None
         """
-        self.back_stack.append(self.current)
-        self.current = url
-        self.forward_stack.clear()
+        if len(self.history) - 1 > self.current:
+            self.history = self.history[:self.current + 1]
+        self.history.append(url)
+        self.current = len(self.history) - 1
 
     def back(self, steps):
         """
         :type steps: int
         :rtype: str
         """
-        while steps > 0 and self.back_stack:
-            self.forward_stack.append(self.current)
-            self.current = self.back_stack.pop()
-            steps -= 1
-        return self.current
+        self.current = max(0, self.current - steps)
+        return self.history[self.current]
 
     def forward(self, steps):
         """
         :type steps: int
         :rtype: str
         """
-        while steps > 0 and self.forward_stack:
-            self.back_stack.append(self.current)
-            self.current = self.forward_stack.pop()
-            steps -= 1
-        return self.current
+        self.current = min(len(self.history) - 1, self.current + steps)
+        return self.history[self.current]
 
 
 # Your BrowserHistory object will be instantiated and called as such:
