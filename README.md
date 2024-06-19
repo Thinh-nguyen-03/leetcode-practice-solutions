@@ -27,12 +27,14 @@ Collection of my LeetCode solutions, showcasing the process of problem-solving a
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Thinh-nguyen-03/leetcode-practice-solutions/tree/master/0155-min-stack) |
+| [0838-design-linked-list](https://github.com/Thinh-nguyen-03/leetcode-practice-solutions/tree/master/0838-design-linked-list) |
 # Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Thinh-nguyen-03/leetcode-practice-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Thinh-nguyen-03/leetcode-practice-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/Thinh-nguyen-03/leetcode-practice-solutions/tree/master/0206-reverse-linked-list) |
+| [0838-design-linked-list](https://github.com/Thinh-nguyen-03/leetcode-practice-solutions/tree/master/0838-design-linked-list) |
 # Recursion
 |  |
 | ------- |
