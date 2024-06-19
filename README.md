@@ -27,3 +27,11 @@ Collection of my LeetCode solutions, showcasing the process of problem-solving a
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Thinh-nguyen-03/leetcode-practice-solutions/tree/master/0155-min-stack) |
+# Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Thinh-nguyen-03/leetcode-practice-solutions/tree/master/0021-merge-two-sorted-lists) |
+# Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Thinh-nguyen-03/leetcode-practice-solutions/tree/master/0021-merge-two-sorted-lists) |
