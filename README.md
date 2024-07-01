@@ -52,3 +52,14 @@ Collection of my LeetCode solutions, showcasing the process of problem-solving a
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/Thinh-nguyen-03/leetcode-practice-solutions/tree/master/1582-design-browser-history) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Thinh-nguyen-03/leetcode-practice-solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Thinh-nguyen-03/leetcode-practice-solutions/tree/master/0206-reverse-linked-list) |
+<!---LeetCode Topics End-->
