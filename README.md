@@ -62,4 +62,16 @@ Collection of my LeetCode solutions, showcasing the process of problem-solving a
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Thinh-nguyen-03/leetcode-practice-solutions/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Thinh-nguyen-03/leetcode-practice-solutions/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Thinh-nguyen-03/leetcode-practice-solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Thinh-nguyen-03/leetcode-practice-solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
