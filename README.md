@@ -66,6 +66,7 @@ Collection of my LeetCode solutions, showcasing the process of problem-solving a
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Thinh-nguyen-03/leetcode-practice-solutions/tree/master/0225-implement-stack-using-queues) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Thinh-nguyen-03/leetcode-practice-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
@@ -74,4 +75,13 @@ Collection of my LeetCode solutions, showcasing the process of problem-solving a
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Thinh-nguyen-03/leetcode-practice-solutions/tree/master/0225-implement-stack-using-queues) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Thinh-nguyen-03/leetcode-practice-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Array
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Thinh-nguyen-03/leetcode-practice-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Thinh-nguyen-03/leetcode-practice-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
