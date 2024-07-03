@@ -20,6 +20,8 @@ class MyStack(object):
         """
         :rtype: int
         """
+        if not self.queue1:
+            return -1
         return self.queue1.popleft()
 
     def top(self):
