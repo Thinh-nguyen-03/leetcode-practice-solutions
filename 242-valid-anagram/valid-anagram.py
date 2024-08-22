@@ -11,7 +11,10 @@ class Solution(object):
         count = {}
         
         for char in s:
-            count[char] = count.get(char, 0) + 1
+            if char in count:
+                count[char] += 1
+            else:
+                count[char] = 1
         
         for char in t:
             if char in count:
