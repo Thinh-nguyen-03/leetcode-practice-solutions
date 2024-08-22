@@ -4,15 +4,14 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        appeared = {}
+        seen = set()
         
         for num in nums:
-            
-            if num in appeared:
+            if num in seen:
                 return True
-            else:
-                appeared[num] = 1
-
-        return False 
+            
+            seen.add(num)
+        
+        return False
         
         
