@@ -9,6 +9,4 @@ class Solution(object):
             if c in seen:
                 return c
             seen.add(c)
-
-        return " "
         
