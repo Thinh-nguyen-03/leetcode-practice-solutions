@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/counting-elements">1391. Counting Elements</a></h2><h3>Easy</h3><hr><p>Given an integer array <code>arr</code>, count how many elements <code>x</code> there are, such that <code>x + 1</code> is also in <code>arr</code>. If there are duplicates in <code>arr</code>, count them separately.</p>
+<h2><a href="https://leetcode.com/problems/counting-elements">Counting Elements</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an integer array <code>arr</code>, count how many elements <code>x</code> there are, such that <code>x + 1</code> is also in <code>arr</code>. If there are duplicates in <code>arr</code>, count them separately.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
